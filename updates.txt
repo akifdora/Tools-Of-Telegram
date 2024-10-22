@@ -1,0 +1,38 @@
+[+] Tools of Telegram v5.0 Notları - 21.10.2024 [+]
+[+] HttpStatusChecker komutu eklendi.
+[+] VulnerabilityScanner komutu eklendi.
+[!] Komut metinlerinde görsel düzenlemeler yapıldı.
+
+#####################################################################################################################
+
+[+] Tools of Telegram v4.0 Notları - 11.10.2024 [+]
+[+] SSLChecker komutu eklendi.
+[+] DNSRecordLookup komutu eklendi.
+[+] HTTPHeaders komutu eklendi.
+[!] Komut metinlerinde görsel düzenlemeler yapıldı.
+
+#####################################################################################################################
+
+[+] Tools of Telegram v3.0 Notları - 09.10.2024 [+]
+[+] SubnetScan komutu eklendi.
+[+] WhoIS komutu eklendi.
+[+] ReverseDNSLookup komutu eklendi.
+[!] Komut metinlerinde görsel düzenlemeler yapıldı.
+
+#####################################################################################################################
+
+[+] Tools of Telegram v2.0 Notları - 03.10.2024 [+]
+[+] PortScan komutu eklendi.
+[+] SiteMapping komutu eklendi.
+[+] SubdomainScan komutu eklendi.
+[*] Spagetti kod yapısı düzeltildi, bot.js, tools/, utils/ şeklinde modüler bir yapıda kodlama devam edecek.
+[!] Komut metinlerinde görsel düzenlemeler yapıldı.
+
+#####################################################################################################################
+
+[+] Tools of Telegram v1.0 Notları - 02.10.2024 [+]
+[+] Hakkımda komutu eklendi.
+[+] DomainToIP komutu eklendi.
+[+] IP Locator komutu eklendi.
+[+] Pass Checker komutu eklendi.
+[!] Komut metinlerinde görsel düzenlemeler yapıldı.
