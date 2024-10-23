@@ -37,7 +37,7 @@
 ```
 4. Run the bot:
 ```
-  node bot.js
+  start.bat
 ```
 
 ---
@@ -79,5 +79,5 @@
 ```
 4. Botu çalıştırın:
 ```
-  node bot.js
+  start.bat
 ```
